@@ -23,5 +23,4 @@ ___
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ___
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltyOfficial)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AltyOfficial&theme=nord_dark)
