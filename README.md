@@ -9,6 +9,7 @@ ___
 <li><a href="https://github.com/AltyOfficial/street-cats">Street Cats</a> - SPA Project for people to share pictures of street cats they met. (In Development)</li><li><a href="https://github.com/AltyOfficial/foodgram-project-react">FoogGram</a> - SPA Project for people to share their recipes and view other's people recipes.</li>
 </ul>
 <h2 align="center">My skills:</h2> 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
