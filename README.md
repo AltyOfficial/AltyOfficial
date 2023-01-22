@@ -4,9 +4,8 @@
 
 ___
 <h2 align="center">About Me:</h2>
-<h4>I'm 22 y.o. For the last year I've been learning backend and chose Python to learn it. I have some interesting PET Projects and some projects that I completed while studying at Yandex Praktikum.
-
-I love nature, cats and music, especially the sound of musical instruments, violin and cello in particular, although I can't play them. </h4>
+<h3>I'm 22 y.o. For the last year I've been learning backend and chose Python to learn it. I have some interesting PET Projects and some projects that I completed while studying at Yandex Praktikum.
+I love nature, cats and music, especially the sound of musical instruments, violin and cello in particular, although I can't play them. </h3>
 <ul><h2 align="center">Some of My Projects:</h2>
 <li><a href="https://github.com/AltyOfficial/street-cats">Street Cats</a> - SPA Project for people to share pictures of street cats they met. (In Development)</li><li><a href="https://github.com/AltyOfficial/foodgram-project-react">FoogGram</a> - SPA Project for people to share their recipes and view other's people recipes.</li>
 </ul>
