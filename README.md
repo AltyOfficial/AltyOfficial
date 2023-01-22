@@ -7,8 +7,7 @@ ___
 <h3>fdfdfdfd</h3>
 
 ___
-<ul><h2 align="center">Some of My Projects:</h2>
-<li><h3><a href="https://github.com/AltyOfficial/street-cats">Street Cats</a> - SPA Project for people to share pictures of street cats they met. (In Development)</h3></li><li><h3><a href="https://github.com/AltyOfficial/foodgram-project-react">FoogGram</a> - SPA Project for people to share their recipes and view other's people recipes.</h3></li>
+<ul><h2 align="center">Some of My Projects:</h2><li><h3><a href="https://github.com/AltyOfficial/street-cats">Street Cats</a> - SPA Project for people to share pictures of street cats they met. (In Development)</h3></li><li><h3><a href="https://github.com/AltyOfficial/foodgram-project-react">FoogGram</a> - SPA Project for people to share their recipes and view other's people recipes.</h3></li>
 </ul>
 
 ___
