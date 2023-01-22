@@ -9,6 +9,7 @@ ___
 <li><a href="https://github.com/AltyOfficial/street-cats">Street Cats</a> - SPA Project for people to share pictures of street cats they met. (In Development)</li><li><a href="https://github.com/AltyOfficial/foodgram-project-react">FoogGram</a> - SPA Project for people to share their recipes and view other's people recipes.</li>
 </ul>
 <h2 align="center">My skills:</h2> 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+___
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AltyOfficial)](https://git.io/streak-stats)
