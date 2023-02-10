@@ -2,10 +2,10 @@
 <h3 align="center">Backend Developer from Kazan, Russia</h3>
 <hr>
 <ul><h2 align="center">About Me:</h2>
-<li><h4>I am 22 y.o.</h4></li>
-<li><h4>Learning Python and Backend for more than a year.</h4></li>
-<li><h4>Coded my own pet-projects and some projects with Yandex.Praktikum.</h4></li>
-<li><h4>I love nature, cats, games and instrumental music, especially the sound of string musical instruments, although I can't play them. 😞</h4></li>
+<li><h5>I am 22 y.o.</h5></li>
+<li><h5>Learning Python and Backend for more than a year.</h5></li>
+<li><h5>Coded my own pet-projects and some projects with Yandex.Praktikum.</h5></li>
+<li><h5>I love nature, cats, games and instrumental music, especially the sound of string musical instruments, although I can't play them. 😞</h5></li>
 </ul>
 <hr>
 <ul><h2 align="center">Some of My Projects:</h2>
