@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I am Arthur 👋</h1>
 <h3 align="center">Backend Developer from Kazan, Russia</h3>
 <hr>
-<ul><h2 align="center">About Me:</h2>
+<ul style="display: flex; flex-direction: column; gap: 2px;"><h2 align="center">About Me:</h2>
 <li><h5>I am 22 y.o.</h5></li><li><h5>Learning Python and Backend for more than a year.</h5></li><li><h5>Coded my own pet-projects and some projects with Yandex.Praktikum.</h5></li><li><h5>I love nature, cats, games and instrumental music, especially the sound of string musical instruments, although I can't play them. 😞</h5></li></ul>
 <hr>
 <ul><h2 align="center">Some of My Projects:</h2>
