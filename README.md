@@ -3,7 +3,7 @@
 <hr>
 <ul style="display: flex; flex-direction: column; gap: 0px;"><h2 align="center">About Me:</h2>
 <li><h5>I am 22 y.o.</h5></li>
-<li style="margin-top: -5px;"><h5>Learning Python and Backend for more than a year.</h5></li>
+<li style="margin-top: -15px;"><h5>Learning Python and Backend for more than a year.</h5></li>
 <li style="margin-top: -5px;"><h5>Coded my own pet-projects and some projects with Yandex.Praktikum.</h5></li>
 <li style="margin-top: -5px;"><h5>I love nature, cats, games and instrumental music, especially the sound of string musical instruments, although I can't play them. 😞</h5></li></ul>
 <hr>
